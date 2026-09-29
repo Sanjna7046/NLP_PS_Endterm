@@ -1,0 +1,20 @@
+[
+  {
+    "as_of_time": "2026-02-20T00:00:00Z",
+    "inferred_state": "new_child_life_event",
+    "confidence_band": "low",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "Income dip and/or baby-store purchase. Signal still weak \u2014 do not promote yet."
+  },
+  {
+    "as_of_time": "2026-03-27T00:00:00Z",
+    "inferred_state": "new_child_life_event",
+    "confidence_band": "high",
+    "action": "personalized_offer",
+    "action_subtype": "childcare_savings_or_insurance_plan",
+    "hitl_status": "escalated",
+    "notes": "Daycare standing instruction and/or KYC dependents change confirm new child. Route escalated personalized offer."
+  }
+]
