@@ -1,0 +1,29 @@
+[
+  {
+    "as_of_time": "2026-02-15T00:00:00Z",
+    "inferred_state": "medical_hardship",
+    "confidence_band": "low",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "ER visit / pharmacy spend detected. Could still be minor."
+  },
+  {
+    "as_of_time": "2026-03-12T00:00:00Z",
+    "inferred_state": "medical_hardship",
+    "confidence_band": "medium",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "Large hospital bill posted + income drop. Medical hardship likely."
+  },
+  {
+    "as_of_time": "2026-03-26T00:00:00Z",
+    "inferred_state": "medical_hardship",
+    "confidence_band": "high",
+    "action": "support_intervention",
+    "action_subtype": "medical_hardship_payment_plan",
+    "hitl_status": "escalated",
+    "notes": "Support ticket confirms hospitalization + income drop and requests payment plan. Escalated for human review."
+  }
+]
